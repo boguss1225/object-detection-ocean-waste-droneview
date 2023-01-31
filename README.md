@@ -1,12 +1,12 @@
 # Object detection of Floating Waste from Drone view
 
-![picture](results/val_result.png) \
+![picture](results/val_result.jpg) \
 ↑ Object detection result from validation dataset
 
 ## Introduction
 Plastic waste is among the most dangerous ocean pollutants and one of the main factors causing disruption of ocean ecosystems and marine organisms [1,2]. According to the recent studies, the global weight of floating plastic at about 5.25 trillion particles amounts to more than 268,000 tons [3,4], where these particles are produced from multiple sources related to wrong daily-life practices. The fishery activities, including waste fishing nets, are the major contributors to production of this huge amount of plastic waste and pollution of the oceans [5], where approx. 705,479 short tons of fishing gear are lost or discarded in the ocean every year and annually this gear captures and kills on average 136,000 seals, sea lions and whales [[6], [7], [8]]. (from [9]...) \
 \
-![picture](results/val_result2.png) \
+![picture](results/val_result2.jpg) \
 ↑ Picture of ocean waste and its detection.
 
 ## Data Overview

@@ -61,7 +61,7 @@ names: [ 'Glass_bottle',
 [pic6]: results/Mixed.jpg
 
 - label distribution
-![picture](results/labels.png)
+![picture](results/labels.jpg)
 
 ## data feature
 - ambiguous boundary (overlapped and mixed)
